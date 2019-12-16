@@ -2,7 +2,7 @@
 name = "No Grass Gekko"
 description = "The grass won't turn into grass gekko upon picking"
 author = "Jupiter"
-version = "1.0"
+version = "1.1"
 
 forumthread = ""
 
@@ -15,7 +15,7 @@ client_only_mod = false
 --Let the mod system know that this mod is functional with Don't Starve Together
 dst_compatible = true
 
-all_clients_require_mod = true 
+all_clients_require_mod = false 
 
 -- Can specify a custom icon for this mod!
 --icon_atlas = "123.xml"
